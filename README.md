@@ -36,15 +36,15 @@ Validar el correcto funcionamiento del sistema mediante técnicas de testing QA.
 
 # 💳 Proyecto 2: Pruebas de Control de Calidad Integrales (Web, Móvil y API)
 
-## 📌 Descripción
+📌 Descripción
 
 Este proyecto se enfoca en la validación integral de una aplicación mediante pruebas de calidad en múltiples plataformas: web, móvil y API. Se aplicaron técnicas de testing manual y pruebas de API para asegurar el correcto funcionamiento del sistema.
 
-## 🚨 Problema
+🚨 Problema
 
 Asegurar la calidad integral de una aplicación mediante el análisis de requisitos y la detección de defectos en múltiples plataformas.
 
-## 🛠️ Qué hice
+🛠️ Qué hice
 
 * Analicé y validé requisitos funcionales del sistema.
 * Diseñé casos de prueba basados en escenarios reales.
@@ -52,27 +52,27 @@ Asegurar la calidad integral de una aplicación mediante el análisis de requisi
 * Realicé pruebas de API utilizando Postman.
 * Reporté defectos de manera estructurada en Jira.
 
-## 🧪 Alcance de pruebas
+🧪 Alcance de pruebas
 
-### 🌐 Web
+🌐 Web
 
 * Validación de formularios
 * Flujo de usuario
 * Mensajes de error
 
-### 📱 Móvil
+📱 Móvil
 
 * Validación de UI/UX
 * Comportamiento en diferentes resoluciones
 * Navegación entre pantallas
 
-### 🔌 API
+🔌 API
 
 * Validación de endpoints
 * Códigos de estado (200, 400)
 * Manejo de errores
 
-## 🧠 Técnicas utilizadas
+🧠 Técnicas utilizadas
 
 * Pruebas funcionales
 * Clases de equivalencia
@@ -80,7 +80,7 @@ Asegurar la calidad integral de una aplicación mediante el análisis de requisi
 * Diseño de casos de prueba
 * Testing de API
 
-## 📊 Casos de prueba
+📊 Casos de prueba
 
 Se diseñaron y ejecutaron múltiples casos de prueba cubriendo:
 
@@ -88,7 +88,7 @@ Se diseñaron y ejecutaron múltiples casos de prueba cubriendo:
 * Escenarios negativos
 * Validaciones de datos de entrada
 
-## 🐞 Gestión de bugs
+🐞 Gestión de bugs
 
 Los defectos fueron documentados en Jira con la siguiente estructura:
 
@@ -97,11 +97,11 @@ Los defectos fueron documentados en Jira con la siguiente estructura:
 | BUG-01 | Error en validación de formulario   | Alta      | Abierto |
 | BUG-02 | API retorna 200 con datos inválidos | Crítica   | Cerrado |
 
-## 🏆 Resultado o aprendizaje
+🏆 Resultado o aprendizaje
 
 Desarrollé un enfoque estructurado para la detección de defectos, mejorando mi capacidad para entregar software confiable y de alta calidad en múltiples plataformas.
 
-## 🛠️ Skills
+🛠️ Skills
 
 * Pruebas manuales
 * Análisis de requisitos
@@ -110,12 +110,12 @@ Desarrollé un enfoque estructurado para la detección de defectos, mejorando mi
 * Pruebas móviles
 * Pruebas de API
 
-## 🔗 Link al Proyecto
+🔗 Link al Proyecto
 
 👉 https://docs.google.com/spreadsheets/d/1bEem1tG2Ql-Tdo-ENO-5x1suUjjEnLCF/edit?usp=sharing&ouid=117342143330177834579&rtpof=true&sd=true
 👉 Link de Jira:https://andres-joya.atlassian.net/?continue=https%3A%2F%2Fandres-joya.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10001&atlOrigin=eyJpIjoiODk0OGYwMDIzZGY1NGI2NWE5MGNlMmIwZDNkMTk2OTYiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9
 
-## 🏆 Resultado
+🏆 Resultado
 
 Se identificaron inconsistencias en validaciones críticas, mejorando la calidad del sistema y cobertura de pruebas.
 
@@ -127,11 +127,11 @@ Se identificaron inconsistencias en validaciones críticas, mejorando la calidad
 
 Este proyecto se enfoca en la validación de la lógica de negocio de un sistema de entregas y la verificación de su API. Se aplicaron pruebas estructuradas para asegurar la correcta respuesta del sistema ante diferentes escenarios, incluyendo casos positivos, negativos y condiciones límite.
 
-## 🚨 Problema
+🚨 Problema
 
 Asegurar la confiabilidad de la lógica de entregas y validar que la API responda correctamente ante distintos tipos de solicitudes y datos de entrada.
 
-## 🛠️ Qué hice
+🛠️ Qué hice
 
 * Diseñé más de 30 casos de prueba cubriendo escenarios clave del sistema.
 * Ejecuté pruebas funcionales enfocadas en la lógica de entregas.
@@ -140,21 +140,21 @@ Asegurar la confiabilidad de la lógica de entregas y validar que la API respond
 * Analicé respuestas del sistema ante datos válidos e inválidos.
 * Reporté defectos en Jira con trazabilidad clara.
 
-## 🧪 Alcance de pruebas
+🧪 Alcance de pruebas
 
-### 🚚 Lógica de negocio (Delivery)
+🚚 Lógica de negocio (Delivery)
 
 * Cálculo de tiempos de entrega
 * Validación de direcciones
 * Reglas de disponibilidad
 
-### 🔌 API
+🔌 API
 
 * Validación de endpoints (GET, POST)
 * Códigos de respuesta HTTP
 * Manejo de errores y mensajes
 
-## 🧠 Técnicas utilizadas
+🧠 Técnicas utilizadas
 
 * Pruebas funcionales
 * Clases de equivalencia
@@ -162,7 +162,7 @@ Asegurar la confiabilidad de la lógica de entregas y validar que la API respond
 * Testing de API
 * Diseño de casos de prueba
 
-## 📊 Casos de prueba
+📊 Casos de prueba
 
 Se diseñaron y ejecutaron más de 30 casos de prueba cubriendo:
 
@@ -172,7 +172,7 @@ Se diseñaron y ejecutaron más de 30 casos de prueba cubriendo:
 
 *(Adjuntar archivo Excel o tablas en esta sección)*
 
-## 🐞 Gestión de bugs
+🐞 Gestión de bugs
 
 Los defectos fueron documentados en Jira siguiendo buenas prácticas:
 
@@ -181,11 +181,11 @@ Los defectos fueron documentados en Jira siguiendo buenas prácticas:
 | BUG-01 | API acepta datos inválidos   | Crítica   | Abierto     |
 | BUG-02 | Tiempo de entrega incorrecto | Alta      | En progreso |
 
-## 🏆 Resultado o aprendizaje
+🏆 Resultado o aprendizaje
 
 Aseguré la confiabilidad del sistema de entregas al validar escenarios críticos, mejorar la cobertura de pruebas y fortalecer la documentación de errores, facilitando su seguimiento y resolución.
 
-## 🛠️ Skills
+🛠️ Skills
 
 * Testing QA
 * Pruebas de API
