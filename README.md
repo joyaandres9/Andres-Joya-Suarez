@@ -113,6 +113,7 @@ Desarrollé un enfoque estructurado para la detección de defectos, mejorando mi
 🔗 Link al Proyecto
 
 👉 https://docs.google.com/spreadsheets/d/1bEem1tG2Ql-Tdo-ENO-5x1suUjjEnLCF/edit?usp=sharing&ouid=117342143330177834579&rtpof=true&sd=true
+
 👉 Link de Jira:https://andres-joya.atlassian.net/?continue=https%3A%2F%2Fandres-joya.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10001&atlOrigin=eyJpIjoiODk0OGYwMDIzZGY1NGI2NWE5MGNlMmIwZDNkMTk2OTYiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9
 
 🏆 Resultado
@@ -199,4 +200,5 @@ Aseguré la confiabilidad del sistema de entregas al validar escenarios crítico
 ## 🔗 Link al Proyecto
 
 👉 https://docs.google.com/spreadsheets/d/1DsbCGos9TRvi6xDj2Vfd_whtQBi2YIkx/edit?usp=sharing&ouid=117342143330177834579&rtpof=true&sd=true
+
 👉 Link Jira:https://andres-joya.atlassian.net/jira/software/c/projects/S3T/list?jql=project%20%3D%20S3T%20AND%20assignee%20%3D%20empty%20ORDER%20BY%20created%20ASC
