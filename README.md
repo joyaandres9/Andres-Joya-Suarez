@@ -11,24 +11,24 @@ Proyecto 1 🚗 Urban Routes Testing Project
 
 Proyecto enfocado en pruebas funcionales de una aplicación de rutas urbanas, validando reglas de negocio como distancias, horarios y nombres.
 
-## 🎯 Objetivo
+🎯 Objetivo
 
 Validar el correcto funcionamiento del sistema mediante técnicas de testing QA.
 
-## 🧪 Alcance de pruebas
+🧪 Alcance de pruebas
 
 * Validación de campos (nombre, rutas)
 * Lógica de horarios
 * Distancias y cálculos
 
-## 🧠 Técnicas utilizadas
+🧠 Técnicas utilizadas
 
 * Clases de equivalencia
 * Análisis de valores límite (BVA)
 * Diagramas de flujo
 * Mapa mental
 
-## 🔗 Link al Proyecto
+🔗 Link al Proyecto
 
 👉 https://docs.google.com/spreadsheets/d/15_f1PZ_W0gZxc5q2jWifIby7MlzSbjJq/edit?gid=1899960451#gid=1899960451)
 
